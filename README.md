@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<img width="623" alt="ginn titolo" src="https://github.com/user-attachments/assets/06472b4e-4319-46a8-b2d3-3551d76122b1">
+<img width="911" alt="ginn titolo" src="https://github.com/user-attachments/assets/81e0e24c-6e7c-4714-bde0-758c647e29f6">
 </p>
 
 
